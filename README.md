@@ -18,7 +18,6 @@ Para que tu proceso de aprendizaje sea lo más fluido posible, el material está
 A continuación, tienes la hoja de ruta del semestre. Haz clic en los enlaces de cada semana para acceder directamente al material correspondiente:
 
 | Semana | Tema Principal| Status |
-| :---: | :--- | :---: | :---: | :---: |
 | **01** | Introducción y resolucion caso similar a prueba | ✅ Completado |
 | **02** | Creacion de menú y manejo de errores | ✅ Completado |
 | **03** | Profundizar en uso de def y bucles | 🚀 En Curso |
