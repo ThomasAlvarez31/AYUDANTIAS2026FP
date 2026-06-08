@@ -12,16 +12,15 @@ Para que tu proceso de aprendizaje sea lo más fluido posible, el material está
 2. **📄 Casos de Estudio (PDF):** Los enunciados, problemáticas y desafíos del mundo real que resolveremos semana a semana para aplicar la teoría.
 
 ---
-
 ## 📅 Cronograma y Ruta de Aprendizaje
 
 A continuación, tienes la hoja de ruta del semestre. Haz clic en los enlaces de cada semana para acceder directamente al material correspondiente:
 
-| Semana | Tema Principal| Status |
-| **01** | Introducción y resolucion caso similar a prueba | ✅ Completado |
-| **02** | Creacion de menú y manejo de errores | ✅ Completado |
+| Semana | Tema Principal | Status |
+| :---: | :--- | :--- |
+| **01** | Introducción y resolución caso similar a prueba | ✅ Completado |
+| **02** | Creación de menú y manejo de errores | ✅ Completado |
 | **03** | Profundizar en uso de def y bucles | 🚀 En Curso |
-
 ---
 
 ## 📂 Estructura del Repositorio
