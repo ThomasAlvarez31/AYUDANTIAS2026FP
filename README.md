@@ -20,7 +20,7 @@ A continuación, tienes la hoja de ruta del semestre. Haz clic en los enlaces de
 | :---: | :--- | :--- |
 | **01** | Introducción y resolución caso similar a prueba | ✅ Completado |
 | **02** | Creación de menú y manejo de errores | ✅ Completado |
-| **03** | Profundizar en uso de def y bucles | 🚀 En Curso |
+| **03** | Profundizar en uso de def y bucles | ✅ Completado |
 ---
 
 ## 📂 Estructura del Repositorio
