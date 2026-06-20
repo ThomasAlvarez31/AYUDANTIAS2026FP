@@ -21,6 +21,7 @@ A continuación, tienes la hoja de ruta del semestre. Haz clic en los enlaces de
 | **01** | Introducción y resolución caso similar a prueba | ✅ Completado |
 | **02** | Creación de menú y manejo de errores | ✅ Completado |
 | **03** | Profundizar en uso de def y bucles | ✅ Completado |
+| **04** | Uso de funciones con y sin retorno para prueba 4 | ✅ Completado |
 ---
 
 ## 📂 Estructura del Repositorio
